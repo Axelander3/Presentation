@@ -1,0 +1,30 @@
+html {
+	background-image: url("https://cdn.pixabay.com/photo/2017/08/06/11/48/cloud-2591741_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Baloo Bhaijaan', cursive;
+}
+
+.header {
+	color:green;
+	text-align: center;
+	font-size: 400%;
+}
+
+.about {
+	
+}
+
+.img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	height: 300px;
+}
+
+.om-text {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 30px;
+}
+
